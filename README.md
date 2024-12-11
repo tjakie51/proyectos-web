@@ -8,7 +8,7 @@ El objetivo de estos proyectos es explorar nuevas herramientas, técnicas y conc
 
 1. **Creación logotipo HTML**: En este proyecto se ha creado un dibujo interactivo, un juego simple, etc.. El objetivo principal fue familiarizarme con las posibilidades que ofrece el elemento `<canvas>` de HTML5 para crear gráficos y animaciones en la web.
 
-## Tecnologías utilizadas
+**Tecnologías utilizadas**
 
 - **HTML5**: Para estructurar el contenido básico de la página.
 - **CSS3**: Para el diseño visual y la disposición del contenido.
@@ -16,7 +16,7 @@ El objetivo de estos proyectos es explorar nuevas herramientas, técnicas y conc
 
 ## Proyecto Original
 
-Este proyecto fue creado basándome en un ejemplo de ** HTML5 and JavaScript Projects **. En el libro se enseña cómo trabajar con el canvas, realizar dibujos y animaciones. He seguido los conceptos y pasos descritos en el libro, pero con algunas modificaciones para personalizarlo y adaptarlo a mis necesidades de aprendizaje.
+Este proyecto fue creado basándome en un ejemplo de **HTML5 and JavaScript Projects**. En el libro se enseña cómo trabajar con el canvas, realizar dibujos y animaciones. He seguido los conceptos y pasos descritos en el libro, pero con algunas modificaciones para personalizarlo y adaptarlo a mis necesidades de aprendizaje.
 
 2. **Proyecto2**: Un proyecto donde implementé una interfaz más compleja utilizando técnicas avanzadas de CSS.
 
