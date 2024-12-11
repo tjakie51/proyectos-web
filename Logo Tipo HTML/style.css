@@ -1,0 +1,13 @@
+footer {
+    display: block;
+    border-top: 1px solid orange;
+    margin: 10px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+article {
+    display: block;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    margin: 5px;
+}
