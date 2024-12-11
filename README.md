@@ -1,6 +1,8 @@
 # Proyectos Frontend
 
-Este repositorio contiene mis proyectos de desarrollo web, utilizando tecnologías como HTML, CSS y JavaScript.
+Este repositorio contiene ejercicios y proyectos de desarrollo web que he realizado como parte de mi proceso de aprendizaje. Estos proyectos están basados en ejemplos y ejercicios de varios libros de desarrollo web, los cuales me han permitido aprender y practicar diversas tecnologías front-end como HTML, CSS y JavaScript.
+
+El objetivo de estos proyectos es explorar nuevas herramientas, técnicas y conceptos de desarrollo web, así como mejorar mis habilidades en la creación de interfaces interactivas, diseño responsive y optimización de la experiencia del usuario. Cada ejercicio está diseñado para experimentar con conceptos específicos, y no son proyectos originales que yo haya creado, sino que los hago para aprender de los ejemplos proporcionados por los libros.
 
 ## Proyectos
 
