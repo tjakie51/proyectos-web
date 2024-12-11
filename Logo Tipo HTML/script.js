@@ -102,7 +102,7 @@ let screenLog = document.querySelector("#screen-log");
 document.addEventListener("click", logKey);
 
 function logKey(e) {
-    coor = screenLog.innerText = `
-            "Screen X/Y:" ${e.screenX}, ${e.screenY}
-            Client X/Y: ${e.clientX}, ${e.clientY}`;
+    screenLog.innerText = `
+        "Screen X/Y:" ${e.screenX}, ${e.screenY}
+        Client X/Y: ${e.clientX}, ${e.clientY}`;
 }
