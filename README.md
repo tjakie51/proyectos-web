@@ -14,11 +14,16 @@ El objetivo de estos proyectos es explorar nuevas herramientas, técnicas y conc
 - **CSS3**: Para el diseño visual y la disposición del contenido.
 - **JavaScript**: Para la programación de la lógica, el manejo del canvas y las interacciones dinámicas.
 
+**Tecnologías implementadas por mí**
+
+- **ESLint**: Aunque no es parte del material enseñado en el libro, implementé **ESLint** para mejorar la calidad del código JavaScript. Esta herramienta de análisis estático ayuda a identificar y corregir errores de estilo y posibles problemas en el código, asegurando que el desarrollo sea limpio, consistente y sin errores comunes.
+
+- **Gulp**: También decidí implementar **Gulp**, una herramienta de automatización de tareas, para optimizar el flujo de trabajo. Con Gulp, puedo automatizar tareas como la minificación de archivos, la compilación de preprocesadores CSS (Sass, LESS), y la recarga en vivo de la página, mejorando la eficiencia y productividad durante el desarrollo.
+
+
 ## Proyecto Original
 
-Este proyecto fue creado basándome en un ejemplo de **HTML5 and JavaScript Projects**. En el libro se enseña cómo trabajar con el canvas, realizar dibujos y animaciones. He seguido los conceptos y pasos descritos en el libro, pero con algunas modificaciones para personalizarlo y adaptarlo a mis necesidades de aprendizaje.
-
-2. **Proyecto2**: Un proyecto donde implementé una interfaz más compleja utilizando técnicas avanzadas de CSS.
+Estos proyectos fueron creados basándome en los ejemplos de **HTML5 and JavaScript Projects**. En el libro se enseña cómo trabajar con el canvas, realizar dibujos y animaciones. He seguido los conceptos y pasos descritos en el libro, pero con algunas modificaciones para personalizarlo y adaptarlo a mis necesidades de aprendizaje.
 
 ## Cómo ver los proyectos
 

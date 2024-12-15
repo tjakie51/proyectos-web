@@ -1,0 +1,12 @@
+canvas {
+    position: absolute;
+    top: 80px;
+    cursor: crosshair;
+    background-color: rgba(197, 241, 253, 0.574);
+}
+
+video {
+    display: none;
+}
+
+/*//prettier-ignore*/

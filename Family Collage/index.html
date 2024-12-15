@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Collage, with video</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body onLoad="init();">
+    Mouse down, move and mouse up to move objects. Double click for make a copy of any object.
+    <br />
+    <canvas id="canvas" width="800" height="600">
+        Your browser doesn't recognize the canvas element
+    </canvas>
+
+    <button onClick="saveasimage();">Open window with image (which you can save into image file) </button></br>
+    <button onClick="removeobj();">Remove last object moved </button>
+
+    <script type="text/javascript" src="collagedata.js"> </script>
+    <script src="script.js"></script>
+</body>
+
+</html>
