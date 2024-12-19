@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bouncing Video: Animating and Masking HTML5 Video</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body onLoad="init();">
+
+    <video id="vid" loop="loop" preload="auto" muted>
+        <source src="joshuahomerun.mp4" type="video/mp4; codecs='avc1.42E01E, mp4a.40.2'">
+        <source src="joshuahomerun.webmvp8.webm" type='video/webm; codec="vp8, vorbis"'>
+        <source src="joshuahomerun.theora.ogv" type='video/ogg; codecs="theora, vorbis"'>
+
+        Your browser does not accept the video tag.
+    </video>
+    <button id="revbtn" onClick="reverse();">Reverse </button><br />
+
+    <canvas id="canvas">
+        This browser doesn't support the HTML5 canvas element.
+    </canvas>
+    <script src="script.js"></script>
+</body>
+
+</html>
