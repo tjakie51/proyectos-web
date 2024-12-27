@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Spotlight </title>
+    <meta charset="UTF-8">
+    <style>
+
+    </style>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=TU-API_KEY_HERE&callback=initMap"
+        type="text/javascript"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body onLoad="init();">
+    <header id="header">Base location (small red x) </header>
+    <div id="place" style="width:600px; height:400px"></div>
+
+
+    <div id="answer"></div>
+    Change base location: <br />
+    <form name="f" onSubmit=" return changebase();">
+        <input type="radio" name="loc" /> Springer Nature (Apress Publishers) London, UK<br />
+        <input id="first" type="radio" name="loc" /> Purchase College/SUNY, NY, USA<br />
+        <input type="radio" name="loc" /> Kyoto, Japan<br />
+
+        <input type="submit" value="CHANGE">
+    </form>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

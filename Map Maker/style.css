@@ -1,0 +1,19 @@
+header {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 16px;
+    display: block;
+}
+
+canvas {
+    position: absolute;
+    top: 165px;
+    left: 0px;
+    z-index: 100;
+}
+
+#place {
+    position: absolute;
+    top: 165px;
+    left: 0px;
+    z-index: 1;
+}
